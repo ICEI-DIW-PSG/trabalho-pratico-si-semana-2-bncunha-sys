@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: rgb(73, 45, 45);
+  color: #202020;
+}
+
+.cv-container {
+  display: flex;
+  max-width: 1000px;
+  margin: 10px auto;
+  background: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.primeiro{ 
+    width: 70%;
+    padding: 60px;
+  
+}
+
+.cv-left {
+  width: 35%;
+  background-color: #cac8c7;
+  padding: 30px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.cv-right {
+  width: 65%;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.profile-photo {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.cv-summary {
+  font-style: italic;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+.cv-section h3, .cv-section h2 {
+  color: #0f0f0f;
+  border-bottom: 1px solid #141414;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  text-align: left;
+}
+
+.cv-section ul {
+  padding-left: 20px;
+  text-align: left;
+}
+
+.cv-section ul li {
+  margin-bottom: 8px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2em;
+  color: #0e0d0d;
+}
+
+.position {
+  color: #0e0d0d;
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+
+.contact-info {
+  margin-bottom: 30px;
+  font-size: 0.95em;
+  color: #080808;
+}
+#cabecalho
+{background-color :#a70303ff;}
+.tetle{background-color :#e40404ff;}
