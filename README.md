@@ -4,10 +4,14 @@
 
 ## Informações Gerais
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Nome: Bruno Nascimento Cunha 
 =======
 - Nome: Bruno Nascimeno Cunha 
 >>>>>>> aab03664cd3014cf1431a5e34df56d87532083bc
+=======
+- Nome: Bruno Nascimeno Cunha 
+>>>>>>> origin
 - Matricula: 905809
 
 ## Print da tela da página criada (Curriculum Vitae)
